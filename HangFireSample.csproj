@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="hangfire" Version="1.7.19" />
+    <PackageReference Include="hangfire.sqlserver" Version="1.7.19" />
   </ItemGroup>
 
 </Project>
